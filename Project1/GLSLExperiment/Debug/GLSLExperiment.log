@@ -1,0 +1,20 @@
+﻿  example1.cpp
+example1.cpp(101): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+example1.cpp(105): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+example1.cpp(125): warning C4305: '=': truncation from 'double' to 'float'
+example1.cpp(149): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+example1.cpp(162): warning C4305: '=': truncation from 'double' to 'float'
+example1.cpp(172): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+example1.cpp(172): warning C4305: 'initializing': truncation from 'double' to 'float'
+example1.cpp(173): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+example1.cpp(173): warning C4305: 'initializing': truncation from 'double' to 'float'
+example1.cpp(174): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+example1.cpp(174): warning C4305: 'initializing': truncation from 'double' to 'float'
+example1.cpp(175): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+example1.cpp(175): warning C4305: 'initializing': truncation from 'double' to 'float'
+example1.cpp(177): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+example1.cpp(177): warning C4305: 'initializing': truncation from 'double' to 'float'
+example1.cpp(388): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+example1.cpp(391): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+  GLSLExperiment.vcxproj -> E:\Huayan_Sun_hw1\HW1 program\Debug\GLSLExperiment.exe
+  GLSLExperiment.vcxproj -> E:\Huayan_Sun_hw1\HW1 program\Debug\GLSLExperiment.pdb (Full PDB)
