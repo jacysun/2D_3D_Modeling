@@ -1,0 +1,14 @@
+﻿  example1.cpp
+example1.cpp(226): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+example1.cpp(230): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+example1.cpp(307): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+example1.cpp(420): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+example1.cpp(434): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+example1.cpp(437): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+  Generating code
+  2 of 228 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GLSLExperiment.vcxproj -> E:\Huayan_Sun_hw1\HW3-Huayan Sun\HW3\Release\GLSLExperiment.exe
+  GLSLExperiment.vcxproj -> E:\Huayan_Sun_hw1\HW3-Huayan Sun\HW3\Release\GLSLExperiment.pdb (Full PDB)
