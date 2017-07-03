@@ -1,0 +1,15 @@
+﻿  example1.cpp
+example1.cpp(228): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+example1.cpp(237): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+example1.cpp(238): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+example1.cpp(239): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+example1.cpp(242): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+example1.cpp(243): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+example1.cpp(244): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+  Generating code
+  2 of 206 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GLSLExperiment.vcxproj -> C:\Users\huaya\OneDrive\Documents\Visual Studio 2015\Projects\HW2\Release\GLSLExperiment.exe
+  GLSLExperiment.vcxproj -> C:\Users\huaya\OneDrive\Documents\Visual Studio 2015\Projects\HW2\Release\GLSLExperiment.pdb (Full PDB)
